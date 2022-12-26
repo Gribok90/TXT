@@ -1,0 +1,10 @@
+Severity: minor;
+Environment: Redmi 9t", Android 11;
+Title: The 'web-messenger' pop-up is not scrolled in landscape orientation on the 'How can we help you?' support page;
+Steps: 1. Navigate to 'website address',
+       2. Tap on the [Support] button,
+       3. Tap on the [Message] icon,
+       4. Tap on the [Web-messenger] button;
+Expected_Result: Pop-up 'Web-messenger' is scrolled;
+Actual_Result: Pop-up 'Web-messenger' is not scrolled;
+Attachment": video;
