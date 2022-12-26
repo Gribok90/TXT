@@ -1,0 +1,4 @@
+name - Pavel
+age - 32
+pets - null
+selary - 1000
